@@ -54,7 +54,7 @@
 135C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\pl\team\index.d.ts133143830308390677 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\es\company\noun.d.ts133143830315110667 0
 79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\.gitignore133143833765781095 0
-73C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist133143857459531459 1
+73C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist133143861676766375 1
 138C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en\finance\index.d.ts133143830304730671 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\ur\address\postcode.js133143830277320679 0
 121C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\modules\system133143830272470675 1
@@ -66,7 +66,7 @@
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\he\address\city_name.d.ts133143830290250669 0
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en\finance\credit_card133143830323110683 1
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ru\address\street.d.ts133143830320680677 0
-79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\index.html133143844337157532 0
+79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\index.html133143861530797412 0
 129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\id_ID\index.js133143830268910673 0
 122C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\modules\music133143830310650672 1
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\vi\company\name_patterns.js133143830275460671 0
@@ -5547,5 +5547,5 @@
 95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.377278e2.js.map133143794217347579 0
 91C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js133143857459371488 0
 95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js.map133143857459511456 0
-84C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.html133143844346777552 0
+84C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.html133143861676756354 0
 94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\maps.3464ddca.js.map133143786727125944 0
