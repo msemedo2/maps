@@ -1,4 +1,4 @@
-5556
+5557
 150C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\fr\address\secondary_address.d.ts133143830317430678 0
 149C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\es_MX\address\street_suffix.d.ts133143830319780677 0
 143C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\en_IND\address\state_abbr.js133143830279170665 0
@@ -59,7 +59,7 @@
 135C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\pl\team\index.d.ts133143830308390677 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\es\company\noun.d.ts133143830315110667 0
 79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\.gitignore133143833765781095 0
-73C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist133143897592842001 1
+73C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist133143928819245893 1
 138C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en\finance\index.d.ts133143830304730671 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\ur\address\postcode.js133143830277320679 0
 121C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\modules\system133143830272470675 1
@@ -71,7 +71,7 @@
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\he\address\city_name.d.ts133143830290250669 0
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en\finance\credit_card133143830323110683 1
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ru\address\street.d.ts133143830320680677 0
-79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\index.html133143897592562003 0
+79C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\index.html133143898394324511 0
 129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\id_ID\index.js133143830268910673 0
 122C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\modules\music133143830310650672 1
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\vi\company\name_patterns.js133143830275460671 0
@@ -89,8 +89,16 @@
 119C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\pl133143830308380676 1
 143C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\de\internet\domain_suffix.js133143830257320658 0
 136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\hr\name\prefix.d.ts133143830316370677 0
-72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\src133143851799826931 1
+72C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\src133143923327758789 1
 81C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules133143867028133425 1
+127C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ru\company133143830321500675 1
+140C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\pl\name\first_name.d.ts133143830298390657 0
+128C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\errors\faker-error.js133143830258780679 0
+113C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\af_ZA.js133143830250690661 0
+128C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\hr\cell_phone133143830268390667 1
+110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\ru.js133143830278500688 0
+123C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\de_AT.mjs133143830286510664 0
+85C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\src\CustomMap.ts133143928818736919 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\pt_PT\address\index.js133143830270390672 0
 148C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\sk\address\building_number.d.ts133143830289700671 0
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ur\address\street.d.ts133143830320750682 0
@@ -101,7 +109,7 @@
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\de\phone_number\index.js133143830265610671 0
 143C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ur\lorem\supplemental.d.ts133143830321740666 0
 130C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\ge\phone_number133143830268230671 1
-81C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\src\index.ts133143897134409501 0
+81C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\src\index.ts133143928808572974 0
 143C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\hr\cell_phone\formats.d.ts133143830299690666 0
 144C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\uk\name\male_last_name.d.ts133143830312780658 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\hu\animal\index.d.ts133143830306600670 0
@@ -151,9 +159,9 @@
 132C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\modules\image\providers133143830322690673 1
 136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\en\company\bs_verb.js133143830251450661 0
 88C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@types133143867640604404 1
-136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\sv\name\prefix.d.ts133143830316660675 0
 140C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\vi\name\first_name.d.ts133143830298460681 0
 144C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ar\commerce\department.d.ts133143830293890665 0
+136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\sv\name\prefix.d.ts133143830316660675 0
 110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\ge.js133143830263720673 0
 138C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\cz\address\state.d.ts133143830318250682 0
 150C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\fr_BE\address\street_address.d.ts133143830318920673 0
@@ -219,12 +227,6 @@
 132C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\en\animal\type.js133143830283310675 0
 128C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\finance133143830283230677 1
 107C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\README.md133143830284680678 0
-127C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ru\company133143830321500675 1
-140C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\pl\name\first_name.d.ts133143830298390657 0
-128C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\errors\faker-error.js133143830258780679 0
-113C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\af_ZA.js133143830250690661 0
-128C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\hr\cell_phone133143830268390667 1
-110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\ru.js133143830278500688 0
 150C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GH\name\female_first_name.d.ts133143830296790671 0
 139C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\nl\name\last_name.d.ts133143830311670680 0
 110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\en.js133143830258660672 0
@@ -261,10 +263,6 @@
 140C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\sk\company\bs_noun.d.ts133143830288700677 0
 113C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\de_AT.js133143830255610672 0
 138C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\ur\finance\index.d.ts133143830309700671 0
-122C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\date133143830284000686 1
-129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\pt_BR\index.js133143830270320666 0
-126C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\en\index.js133143830266940656 0
-110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\ko.js133143830272810673 0
 113C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\en_AU.js133143830258430673 0
 130C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\nb_NO\address133143830320560670 1
 119C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\en_AU_ocker.js133143830258380671 0
@@ -349,6 +347,10 @@
 110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\he.js133143830263920666 0
 125C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\fr\color133143830305980676 1
 110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\hr.js133143830264050671 0
+122C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\date133143830284000686 1
+129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\pt_BR\index.js133143830270320666 0
+126C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\en\index.js133143830266940656 0
+110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\ko.js133143830272810673 0
 110C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\locale\lv.js133143830273730676 0
 119C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\de133143830303300671 1
 136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\uk\name\suffix.d.ts133143830321620658 0
@@ -680,9 +682,6 @@
 146C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\sv\company\name_patterns.d.ts133143830314080683 0
 141C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\vi\name\male_first_name.js133143830274310675 0
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\cz\company\adjective.d.ts133143830287460681 0
-149C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GH\address\street_suffix.d.ts133143830319760663 0
-132C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\pl\color\index.js133143830270100672 0
-135C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\sk\address\street.js133143830281790671 0
 138C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\fr_CH\date\index.d.ts133143830305790671 0
 136C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\modules\helpers\unique.d.ts133143830322630672 0
 142C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\es\address\street_suffix.js133143830281040677 0
@@ -3215,6 +3214,9 @@
 150C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GH\address\street_address.d.ts133143830318860670 0
 131C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\hy\name\index.js133143830268800668 0
 149C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GH\address\street_prefix.d.ts133143830319540684 0
+149C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GH\address\street_suffix.d.ts133143830319760663 0
+132C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\pl\color\index.js133143830270100672 0
+135C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\sk\address\street.js133143830281790671 0
 143C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\nb_NO\address\city_suffix.js133143830253680664 0
 130C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\en_GB\address133143830322590675 1
 146C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\types\locales\de_AT\phone_number\index.d.ts133143830302930681 0
@@ -3894,7 +3896,6 @@
 135C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\sv\company\suffix.js133143830282520672 0
 120C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\ar.mjs133143830284720682 0
 120C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\de.mjs133143830286530675 0
-123C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\de_AT.mjs133143830286510664 0
 120C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\en.mjs133143830286710674 0
 137C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\locales\zh_TW\address\index.js133143830271770663 0
 129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\esm\locale\en_AU_ocker.mjs133143830286560673 0
@@ -5551,7 +5552,7 @@
 129C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\definitions\vehicle.js133143830283600671 0
 126C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\node_modules\@faker-js\faker\dist\cjs\definitions\word.js133143830284200680 0
 95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.377278e2.js.map133143794217347579 0
-91C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js133143897134649477 0
-95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js.map133143897134679479 0
+91C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js133143928819185971 0
+95C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.b71e74eb.js.map133143928819235892 0
 84C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\index.html133143897592831997 0
 94C:\CODE.C\VS_Code\ZTM\Typescript_The_Complete_Developer's_Guide\maps\dist\maps.3464ddca.js.map133143786727125944 0
